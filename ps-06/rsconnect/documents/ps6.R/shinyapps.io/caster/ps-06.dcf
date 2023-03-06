@@ -1,0 +1,13 @@
+name: ps-06
+title: ps-06
+username:
+account: caster
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8478712
+bundleId: 6916656
+url: https://caster.shinyapps.io/ps-06/
+when: 1677980302.29212
+lastSyncTime: 1677980302.29214
+asMultiple: FALSE
+asStatic: FALSE
